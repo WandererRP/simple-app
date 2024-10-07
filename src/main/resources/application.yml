@@ -1,0 +1,4 @@
+security:
+  token: token123
+hmac:
+  secret: 'HMAC_SECRET_KEY_2024@2'
